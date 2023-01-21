@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pablo !</h1>
-<h3 align="center">Im an Argentinian Fullstack Developer !</h3>
-
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Pablo !</h1></summary>
+  </ul>
+</div>
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="display: inline-block">and I'm an Argentinian Fullstack Developer !</h2></summary>
+  </ul>
+</div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloaza89" alt="pabloaza89" /></a> </p>
 
 - 🔭 I’m currently working on my Personal Portfolio & making a GitHub deploy of my [Final Project for Henry !](https://github.com/PF-todopordoscriptos/PF-TodoX2Cripto)
@@ -14,6 +22,11 @@
 - ✉️ Reach me at **juanpabloazambuyo@gmail.com**
 
 - 📄 Know about my experiences Hi ! Im Pablo ! I worked almost 10 years on a paint selling shop. I was workins as store manager and also as sales consultant in almost 5 years. In february of 2022 i wanted to give a turn on my life introducing in the world of programming, and i studied proudly on Henry ! On this academy i studied Fullstack Developer career, learning Javascript as my first language, including Node JS, React, Redux and Sequelize technologies. Other of my passions is the music, particullary play the piano, i consider myself as a melomaniac person !
+
+<h3 align="left">My projects:</h3>
+
+- 🚀 [Food App !](https://pabloaza89.github.io/PI-Food-GH/)
+- 🚀 [Weather App !](https://pabloaza89.github.io/weather-app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
