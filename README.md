@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning (when i have a little available time) **Typescript**
 
-- 👨‍💻 All of my projects are available at [Coming soon...]
+- 👨‍💻 All of my projects are available at my [Portfolio !](https://pabloaza89.github.io/portfolio)
 
 - 💬 Ask me about **React, Javascript & Sequelize ! 💗**
 
