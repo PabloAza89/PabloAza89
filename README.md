@@ -17,7 +17,9 @@
 </div>
 <ul>
   <summary>
+    <b>
     Hi ! I'm Pablo ! I worked almost 10 years on a paint selling shop. I was workins as store manager and also as sales consultant in almost 5 years. In february of 2022 I wanted to give a turn on my life introducing in the world of programming, and I studied proudly on Henry ! On this academy I studied Fullstack Developer career, learning Javascript as my first language, including Node JS, React, Redux and Sequelize technologies. Other of my passions is the music, particullary play the piano, I consider myself as a melomaniac person !
+    </b>
   </summary>
 </ul>
 
