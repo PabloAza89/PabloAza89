@@ -58,7 +58,7 @@
   <summary>
     <b>
       Or maybe send me a 
-      <a href="https://wa.me/5491124688005?text=I'm%20interested%20in%20your%20web%20projects" target="blank">
+      <a href="https://wa.me/5491124688005?text=Hi,%20I'm%20interested%20in%20your%20web%20projects" target="blank">
         Whatsapp message
       </a>
       &#8203;&nbsp;&#8203;at +5491124688005
