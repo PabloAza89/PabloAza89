@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Pablo !</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Pablo</h1></summary>
   </ul>
 </div>
 <div id="user-content-toc" align="center">
@@ -10,26 +10,58 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on my Personal Portfolio & making a GitHub deploy of my [Final Project for Henry !](https://github.com/PF-todopordoscriptos/PF-TodoX2Cripto)
+<div id="user-content-toc" align="left">
+  <ul>
+    <h3 style="display: inline-block">○ About me:</h3>
+  </ul>
+</div>
+<ul>
+  <summary>
+    Hi ! I'm Pablo ! I worked almost 10 years on a paint selling shop. I was workins as store manager and also as sales consultant in almost 5 years. In february of 2022 I wanted to give a turn on my life introducing in the world of programming, and I studied proudly on Henry ! On this academy I studied Fullstack Developer career, learning Javascript as my first language, including Node JS, React, Redux and Sequelize technologies. Other of my passions is the music, particullary play the piano, I consider myself as a melomaniac person !
+  </summary>
+</ul>
 
-- 🌱 I’m currently learning (when i have a little available time) **Typescript**
+<div id="user-content-toc" align="left">
+  <ul>
+    <h3 style="display: inline-block">○ Where are all my projects available ?</h3>
+  </ul>
+</div>
+<ul>
+  <summary>
+    All of my projects are available at my
+    <a href="https://pabloaza89.github.io/portfolio">
+      Portfolio
+    </a>
+    &#8203;&nbsp;&#8203;!
+  </summary>
+</ul>
 
-- 👨‍💻 All of my projects are available at my [Portfolio !](https://pabloaza89.github.io/portfolio)
-
-- 💬 Ask me about **React, Javascript & Sequelize ! 💗**
-
-- ✉️ Reach me at **juanpabloazambuyo@gmail.com**
-
-- 📄 Know about my experiences Hi ! Im Pablo ! I worked almost 10 years on a paint selling shop. I was workins as store manager and also as sales consultant in almost 5 years. In february of 2022 i wanted to give a turn on my life introducing in the world of programming, and i studied proudly on Henry ! On this academy i studied Fullstack Developer career, learning Javascript as my first language, including Node JS, React, Redux and Sequelize technologies. Other of my passions is the music, particullary play the piano, i consider myself as a melomaniac person !
+<div id="user-content-toc" align="left">
+  <ul>
+    <h3 style="display: inline-block">○ Where can I reach you ?</h3>
+  </ul>
+</div>
+<ul>
+  <summary>
+    Email me at
+    <a href="mailto:juanpabloazambuyo@gmail.com" target="blank">
+      juanpabloazambuyo@gmail.com
+    </a>
+  </summary>
+  <summary>
+    Or maybe send me a 
+    <a href="https://wa.me/5491124688005?text=I'm%20interested%20in%20your%20web%20projects" target="blank">
+      Whatsapp message
+    </a>
+    &#8203;&nbsp;&#8203;at +5491124688005
+  </summary>
+</ul>
 
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ My projects:</h3>
   </ul>
 </div>
-<ul>
-  <summary>https://pabloaza89.github.io/PI-Food-GH</summary>
-</ul>
 <ul>
   <summary>
     🥕
@@ -44,6 +76,15 @@
     ☂️
     <a href="https://pabloaza89.github.io/weather-app">
       Weather App
+    </a>
+    &#8203;&nbsp;&#8203;!
+  </summary>
+</ul>
+<ul>
+  <summary>
+    💼
+    <a href="https://pabloaza89.github.io/portfolio">
+      Portfolio
     </a>
     &#8203;&nbsp;&#8203;!
   </summary>
