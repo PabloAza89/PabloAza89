@@ -9,7 +9,6 @@
   </ul>
 </div>
 <br>
-
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ About me:</h3>
@@ -25,7 +24,6 @@
     </b>
   </summary>
 </ul>
-
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ Where are all my projects available ?</h3>
@@ -40,7 +38,22 @@
     &#8203;&nbsp;&#8203;!</b>
   </summary>
 </ul>
-
+<div id="user-content-toc" align="left">
+  <ul>
+    <h3 style="display: inline-block">○ Where am I currently working on ?</h3>
+  </ul>
+</div>
+<ul>
+  <summary>    
+    <b>
+      Currently developing 🎲
+      <a href="https://pabloaza89.github.io/tictactoe">
+        Tic Tac Toe
+      </a>
+      &#8203;&nbsp;&#8203;!
+    </b>    
+  </summary>
+</ul>
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ Where can I reach you ?</h3>
@@ -65,7 +78,6 @@
     </b>
   </summary>
 </ul>
-
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ My projects:</h3>
@@ -121,7 +133,6 @@
     </a>
   </summary>
 </ul>
-
 <div id="user-content-toc" align="left">
   <ul>
     <h3 style="display: inline-block">○ Languages and tools used in all my projects:</h3>
@@ -194,5 +205,3 @@
 </ul>
 
 <b>Last Update: 22 Nov '23</b>
-
-
