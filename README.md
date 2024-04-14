@@ -17,10 +17,10 @@
 <ul>
   <summary>
     <b>
-      Hi ! I'm Pablo ! I worked almost 10 years on a paint selling shop. I was workins as store manager and also as sales consultant in almost 5 years.
-      In february of 2022 I wanted to give a turn on my life introducing in the world of programming, and I studied proudly on Henry !
-      On this academy I studied Fullstack Developer career, learning Javascript as my first language, including Node JS, React, Redux and Sequelize technologies.
-      Other of my passions is the music, particullary play the piano, I consider myself as a melomaniac person !
+      Hi, I'm Pablo ! I'm Full Stack Developer with 2 years of experience. I have knowdledge in Javascript, Typescript, agile methodologies, GIT,
+      data structures, algorithms, frameworks, CSS, Word, Excel and Photoshop. I have experience in Front End development, Back End and data architecture
+      with React, NodeJS, Express and Sequelize. Previously I have 10 year experience as store manager and seller at Ribera S.A. as well as 3 years as a
+      piano professor. I consider myself self-taught and dedicated in all I do.
     </b>
   </summary>
 </ul>
@@ -83,6 +83,17 @@
     <h3 style="display: inline-block">○ My projects:</h3>
   </ul>
 </div>
+<ul>
+  <summary>    
+    🎲
+    <b>
+      <a href="https://pabloaza89.github.io/tictactoe">
+        Tic Tac Toe
+      </a>
+      &#8203;&nbsp;&#8203;!
+    </b>
+  </summary>
+</ul>
 <ul>
   <summary>    
     🥕
