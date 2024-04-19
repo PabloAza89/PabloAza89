@@ -46,9 +46,9 @@
 <ul>
   <summary>    
     <b>
-      Currently developing 🎲
-      <a href="https://pabloaza89.github.io/tictactoe">
-        Tic Tac Toe
+      Currently developing ➕
+      <a href="https://github.com/PabloAza89/react-native-calculator">
+        React Native Calculator
       </a>
       &#8203;&nbsp;&#8203;!
     </b>    
