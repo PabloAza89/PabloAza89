@@ -5,7 +5,7 @@
 </div>
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="display: inline-block">and I'm an Argentinian Fullstack Developer !</h2></summary>
+    <summary><h2 style="display: inline-block">and I'm an Web & Mobile Developer !</h2></summary>
   </ul>
 </div>
 <br>
@@ -17,9 +17,9 @@
 <ul>
   <summary>
     <b>
-      Hi, I'm Pablo ! I'm Full Stack Developer with 2 years of experience. I have knowdledge in Javascript, Typescript, agile methodologies, GIT,
+      Hi, I'm Pablo ! I'm a Web & Mobile Developer with 2 years of experience. I have knowdledge in Javascript, Typescript, agile methodologies, GIT,
       data structures, algorithms, frameworks, CSS, Word, Excel and Photoshop. I have experience in Front End development, Back End and data architecture
-      with React, NodeJS, Express and Sequelize. Previously I have 10 year experience as store manager and seller at Ribera S.A. as well as 3 years as a
+      with React, React Native, NodeJS, Express and Sequelize. Previously I have 10 year experience as store manager and seller at Ribera S.A. as well as 3 years as a
       piano professor. I consider myself self-taught and dedicated in all I do.
     </b>
   </summary>
@@ -83,6 +83,17 @@
     <h3 style="display: inline-block">○ My projects:</h3>
   </ul>
 </div>
+<ul>
+  <summary>    
+    ➕
+    <b>
+      <a href="#" onClick="return false;">
+        React Native Calculator
+      </a>
+      &#8203;&nbsp;&#8203;(coming soon) !
+    </b>
+  </summary>
+</ul>
 <ul>
   <summary>    
     🎲
@@ -159,10 +170,26 @@
 </ul>
 <ul>
   <summary>
-    <a href="https://reactjs.org/">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    &#8203;&nbsp;&nbsp;&#8203;<b>Javascript</b>
+  </summary>
+</ul>
+<ul>
+  <summary>
+    <a href="https://react.dev/">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     &#8203;&nbsp;&nbsp;&#8203;<b>React</b>
+  </summary>
+</ul>
+<ul>
+  <summary>
+    <a href="https://reactnative.dev/">
+      <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>
+    </a>
+    &#8203;&nbsp;&nbsp;&#8203;<b>React Native</b>
   </summary>
 </ul>
 <ul>
@@ -215,4 +242,4 @@
   </summary>
 </ul>
 
-<b>Last Update: 19 apr '24</b>
+<b>Last Update: 25 july '24</b>
