@@ -178,7 +178,7 @@
 </ul>
 <ul>
   <summary>
-    <a href="https://react.dev/">
+    <a href="https://react.dev">
       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     &#8203;&nbsp;&nbsp;&#8203;<b>React</b>
@@ -186,7 +186,7 @@
 </ul>
 <ul>
   <summary>
-    <a href="https://reactnative.dev/">
+    <a href="https://reactnative.dev">
       <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>
     </a>
     &#8203;&nbsp;&nbsp;&#8203;<b>React Native</b>
@@ -242,4 +242,4 @@
   </summary>
 </ul>
 
-<b>Last Update: 25 july '24</b>
+<b>Last Update: 25 Jul '24</b>
