@@ -87,9 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href="https://github.com/PabloAza89/PabloAza89?tab=readme-ov-file">
-        React Native Calculator
-      </a>
+      <a href="/dashboard.html">Dashboard</a>
       &#8203;&nbsp;&#8203;(coming soon) !
     </b>
   </summary>
