@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href="javascript:;">
+      <a href="javascript:void(0);">
         React Native Calculator
       </a>
       &#8203;&nbsp;&#8203;(coming soon) !
