@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href="/dashboard.html">Dashboard</a>
+      <a id="idtext">Dashboard</a>
       &#8203;&nbsp;&#8203;(coming soon) !
     </b>
   </summary>
