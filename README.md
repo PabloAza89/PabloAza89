@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href='about:blank'>Dashboard</a>
+      <a href='whatever' onclick='return false;'>Dashboard</a>
       &#8203;&nbsp;&#8203;(coming soon) !
     </b>
   </summary>
