@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href="#" onClick="return false;">
+      <a href="javascript:;">
         React Native Calculator
       </a>
       &#8203;&nbsp;&#8203;(coming soon) !
