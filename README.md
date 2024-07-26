@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a id="idtext">Dashboard</a>
+      <a>Dashboard</a>
       &#8203;&nbsp;&#8203;(coming soon) !
     </b>
   </summary>
