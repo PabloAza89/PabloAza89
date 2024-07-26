@@ -87,7 +87,9 @@
   <summary>    
     ➕
     <b>
-      <a href='whatever' onclick='return false;'>Dashboard</a>
+      <a href="https://github.com/PabloAza89/react-native-calculator">
+        React Native Calculator
+      </a>
       &#8203;&nbsp;&#8203;(coming soon) !
     </b>
   </summary>
