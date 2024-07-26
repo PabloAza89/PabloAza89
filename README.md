@@ -87,7 +87,7 @@
   <summary>    
     ➕
     <b>
-      <a href='#' onclick="event.preventDefault()">
+      <a href="#" onClick="return false;">
         React Native Calculator
       </a>
       &#8203;&nbsp;&#8203;(coming soon) !
